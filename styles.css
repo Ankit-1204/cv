@@ -1,0 +1,40 @@
+label{
+    width: 50%;
+}
+img {
+    border-radius: 300px;
+    width: 250px;
+    height: 250px;
+    border-style: dotted;
+    border-color: #4FC0D0;
+    border-width: 5px;
+}
+img:hover{
+    width: 280pxl;
+    border-radius: 330pxl;
+    border-color: aquamarine;
+}
+body {
+    background-color: #DAFFFB;
+    
+}
+h1 {
+    font-style: italic;
+    color: #64CCC5;
+    text-align: center ;
+    
+}
+h1:hover{
+   font-weight: lighter;
+}
+hr {
+    border-color: aqua;
+    border-style: dotted none none none;
+    height: 10px;
+    border-width: 7px;
+    width: 100px;
+    
+}
+ol{
+    font-weight: bold;
+}
